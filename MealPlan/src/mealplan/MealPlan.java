@@ -40,7 +40,7 @@ public class MealPlan {
     public static void getDailyMealCost(double[] dailyCost){ // 
         Scanner in = new Scanner(System.in);
         // note the use of the arrays length, this allow it to  vary depending
-        // on the value passed in theparameter list.
+        // on the value passed in the parameter list.
         for (int i = 0; i < dailyCost.length; i++){
             System.out.println("Enter the estimated cost for day: "+(i+1));
             dailyCost[i] = in.nextDouble();
