@@ -1,0 +1,4 @@
+Price of Cupcack is: 10.0
+Price of Rice is: 20.0
+Price of Dal is: 30.0
+Price of Rasgola is: 40.0
